@@ -1,0 +1,40 @@
+body {
+    background-color: azure;
+    font-family: 'Orelega One', cursive;
+}
+
+button {
+    background-color: rgb(226, 29, 39);
+    border: none;
+    width: 300px;
+    height: 150px;
+    font-size: xx-large;
+    margin: 10px 150px;
+}
+
+button:hover {
+    background-color: rgb(165, 163, 42);
+    border: 1px solid rgb(16, 13, 206);
+}
+
+/* .task2 {
+    background-color: rgb(10, 238, 10);
+    height: 80px;
+    width: 400px;
+    margin: 20;
+    padding: 20;
+    border: 2px solid white;
+} */
+
+.task2 {
+    background-color: rgb(10, 238, 10);
+    /* height: 80px;
+    width: 400px  */
+    padding: 40px;
+    outline: 2px solid white;
+    outline-offset: -20px;
+}
+
+a {
+    color: navy;
+}
